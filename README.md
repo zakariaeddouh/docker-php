@@ -14,6 +14,7 @@ $ docker-compose build
 Then, run:
 ```html
 $ docker-compose up -d
+```
 
 Launch in your browser :
 ```html
